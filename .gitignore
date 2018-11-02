@@ -1,3 +1,7 @@
+node_modules
 /target
 **/*.rs.bk
 Cargo.lock
+markdown_parser.js
+markdown_parser.d.ts
+markdown_parser_bg.wasm
