@@ -4,4 +4,5 @@ node_modules
 Cargo.lock
 markdown_parser.js
 markdown_parser.d.ts
+markdown_parser_bg.d.ts
 markdown_parser_bg.wasm
